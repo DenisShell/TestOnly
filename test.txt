@@ -1,8 +1,0 @@
-12345
-<<<<<<< HEAD
-6789101112
-=======
-egsdhgdfjhgfkfhgk
-gfghdjhhjhkjklui
-
->>>>>>> 864a040faffc3df85427552e9d4ae0ecce2fb241
